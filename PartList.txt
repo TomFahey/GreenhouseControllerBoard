@@ -1,0 +1,84 @@
+Partlist
+
+Exported from Controller v2.sch at 12/07/2021 17:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part      Value               Device              Package              Library                                Sheet
+
+12V_OUT_A 2.1MMJACKTHM        2.1MMJACKTHM        PJ-102A              adafruit                               1
+12V_OUT_B 2.1MMJACKTHM        2.1MMJACKTHM        PJ-102A              adafruit                               1
+12V_OUT_C 2.1MMJACKTHM        2.1MMJACKTHM        PJ-102A              adafruit                               1
+12V_OUT_D 2.1MMJACKTHM        2.1MMJACKTHM        PJ-102A              adafruit                               1
+C1        0.1uF               C-EUC0603           C0603                rcl                                    1
+C2        50nF                C-EUC0603           C0603                rcl                                    1
+C3        0.1uF               C-EUC0603           C0603                rcl                                    1
+C4        10uF                C-EUC0805K          C0805K               rcl                                    1
+C5        10uF                C-EUC0805K          C0805K               rcl                                    1
+C6        10uF                C-EUC0805K          C0805K               rcl                                    1
+C7        135pF               C-EUC0603           C0603                rcl                                    1
+C8        135pF               C-EUC0603           C0603                rcl                                    1
+C9        10uF                C-EUC0805K          C0805K               rcl                                    1
+C10       10uF                C-EUC0805K          C0805K               rcl                                    1
+C11       1uF                 C-EUC0805K          C0805K               rcl                                    1
+C12       47uF                C-EUC0805K          C0805K               rcl                                    1
+C13       47uF                C-EUC0805K          C0805K               rcl                                    1
+D1        LTST-C195TBJRKT0605 LTST-C195TBJRKT0605 LED_LTST-C195TBJRKT  LTST-C195TBJRKT                        1
+D2        LTST-C195TBJRKT0605 LTST-C195TBJRKT0605 LED_LTST-C195TBJRKT  LTST-C195TBJRKT                        1
+D3        LTST-C195TBJRKT0605 LTST-C195TBJRKT0605 LED_LTST-C195TBJRKT  LTST-C195TBJRKT                        1
+D4        ES2D                ES2D                SMB                  diode                                  1
+D5        ES2D                ES2D                SMB                  diode                                  1
+D6        ES2D                ES2D                SMB                  diode                                  1
+D7        ES2D                ES2D                SMB                  diode                                  1
+D8        RED                 LEDCHIPLED_0805     CHIPLED_0805         adafruit                               1
+D9        LTST-C195TBJRKT0605 LTST-C195TBJRKT0605 LED_LTST-C195TBJRKT  LTST-C195TBJRKT                        1
+D11       ES2D                ES2D                SMB                  diode                                  1
+D12       ES2D                ES2D                SMB                  diode                                  1
+HM1       BME2808-VFLGA       BME2808-VFLGA       BME280               SamacSys_Parts                         1
+IC1       MCP23017ML          MCP23017ML          QFN28-ML_6X6MM       microchip                              1
+JP2       3.3V                JP4QE               JP4Q                 jumper                                 1
+PWRIN     2.1MMJACKTHM        2.1MMJACKTHM        PJ-102A              adafruit                               1
+Q1        AOD4184A            AOD4184A            D-PAK_TO252AA        AOD4184A                               1
+Q2        AOD4184A            AOD4184A            D-PAK_TO252AA        AOD4184A                               1
+Q3        AOD4184A            AOD4184A            D-PAK_TO252AA        AOD4184A                               1
+Q4        AOD4184A            AOD4184A            D-PAK_TO252AA        AOD4184A                               1
+R1        4.7K                R-EU_R0805          R0805                rcl                                    1
+R2        4.7K                R-EU_R0805          R0805                rcl                                    1
+R3        100                 R-EU_R0402          R0402                rcl                                    1
+R4        100                 R-EU_R0402          R0402                rcl                                    1
+R5        100                 R-EU_R0402          R0402                rcl                                    1
+R6        100                 R-EU_R0402          R0402                rcl                                    1
+R7        1K                  R-EU_R0402          R0402                rcl                                    1
+R8        1K                  R-EU_R0402          R0402                rcl                                    1
+R9        1K                  R-EU_R0402          R0402                rcl                                    1
+R10       1K                  R-EU_R0402          R0402                rcl                                    1
+R11       10K                 R-EU_R0603          R0603                rcl                                    1
+R12       10K                 R-EU_R0805          R0805                rcl                                    1
+R13       4.32K               R-EU_R0402          R0402                rcl                                    1
+R14       10K                 R-EU_R0402          R0402                rcl                                    1
+S1        EVQ-P7L01P          EVQ-P7L01P          SW_EVQ-P7L01P        EVQ-P7L01P                             1
+S2        EVQ-P7L01P          EVQ-P7L01P          SW_EVQ-P7L01P        EVQ-P7L01P                             1
+U1        ADS1115IDGST        ADS1115IDGST        SOP50P490X110-10N    Texas Instruments_By_element14_Batch_1 1
+U2        ADS1115IDGST        ADS1115IDGST        SOP50P490X110-10N    Texas Instruments_By_element14_Batch_1 1
+U3        ULN2803ADWRG4       ULN2803ADWRG4       SOIC127P1030X265-18N ULN2803ADWRG4                          1
+U4        TPSM53604RDAR       TPSM53604RDAR       B3QFN14_RDA_TEX      TPSM53604                              1
+X1        53048-03            53048-03            53048-03             con-molex                              1
+X2        ESP32_WROOM32       ESP32_WROOM32       WROOM32              microbuilder                           1
+X3        53048-03            53048-03            53048-03             con-molex                              1
+X4        53048-03            53048-03            53048-03             con-molex                              1
+X5        53048-03            53048-03            53048-03             con-molex                              1
+X6        53048-03            53048-03            53048-03             con-molex                              1
+X7        53048-03            53048-03            53048-03             con-molex                              1
+X8        53048-03            53048-03            53048-03             con-molex                              1
+X9        53048-03            53048-03            53048-03             con-molex                              1
+X10       53048-04            53048-04            53048-04             con-molex                              1
+X11       53048-04            53048-04            53048-04             con-molex                              1
+X12       53048-04            53048-04            53048-04             con-molex                              1
+X13       53048-03            53048-03            53048-03             con-molex                              1
+X14       53048-04            53048-04            53048-04             con-molex                              1
+X15       53048-03            53048-03            53048-03             con-molex                              1
+X16       53048-03            53048-03            53048-03             con-molex                              1
+X17       53048-03            53048-03            53048-03             con-molex                              1
+X18       53048-03            53048-03            53048-03             con-molex                              1
