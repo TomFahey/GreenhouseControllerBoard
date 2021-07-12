@@ -1,4 +1,4 @@
-# GreenhouseControllerBoard
+# Greenhouse Controller Board
 Greenhouse irrigation control and sensor board, based on the ESP32 microcontroller
 
 A simple 2-layer PCB design for an irrigation controller, designed to control up to four 12V solenoid valve water valves, 
@@ -13,6 +13,10 @@ Based on the Espressif's popular ESP32 microncontroller, this controller board i
 - Up to 8 individual 12-bit ADC channels for additional environmental monitoring, such as soil moisture sensors
 - An additional 4 GPIO channels, and two I2C connectors for further expansion e.g LED strips (separate power supply required)
 
+Some renders from Fusion 360:
+
+![alt text](https://github.com/TomFahey/GreenhouseControllerBoard/blob/main/v30%20render%20top.PNG?raw=true)
+![alt text](https://github.com/TomFahey/GreenhouseControllerBoard/blob/main/v31%20render%203D.PNG?raw=true)
 
 
 
