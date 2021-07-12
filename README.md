@@ -1,5 +1,5 @@
 # Greenhouse Controller Board
-Greenhouse irrigation control and sensor board, based on the ESP32 microcontroller
+Greenhouse irrigation control and sensor board, based on the ESP32 microcontroller and designed with Autodesk Eagle.
 
 A simple 2-layer PCB design for an irrigation controller, designed to control up to four 12V solenoid valve water valves, 
 based on temperature, humidity and other arbitrary parameters.
