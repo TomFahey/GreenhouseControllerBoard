@@ -4,7 +4,7 @@ Greenhouse irrigation control and sensor board, based on the ESP32 microcontroll
 A simple 2-layer PCB design for an irrigation controller, designed to control up to four 12V solenoid valve water valves, 
 based on temperature, humidity and other arbitrary parameters.
 
-Based on the Espressif's popular ESP32 microncontroller, this controller board incorporates a number of features, including:
+Based on Espressif's popular ESP32 microncontroller, this controller board incorporates a number of features, including:
 
 - Flexible Wi-Fi/Bluetooth control, tracking and automation of plants through open-source Arduino libraries (also compatible with ESPHome)
 - Individual control for up to four DC solenoid valves via 2.1mm x 5.5mm barrel jack, with LED status indicators
